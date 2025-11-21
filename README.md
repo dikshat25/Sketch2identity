@@ -114,6 +114,13 @@ Traditional forensic sketch-based identification is:
 - End-to-end GUI panel for upload & processing  
 
 ---
+## 👨‍💻 Team Members
+
+- **[Mahima Sonawane](https://github.com/Mahi3454)**
+- **[Diksha Thongire](https://github.com/dikshat25)**
+- **[Prachi Shende](https://github.com/Prachi-Shende)**
+  
+---
 
 ## 🔮Future Scope
 
