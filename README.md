@@ -33,7 +33,7 @@ This system is designed to support **law enforcement, investigation units, and f
 The project integrates:
 - **IsGAN** → Sketch-to-photo generation  
 - **StyleGAN / Aging Pipeline** → Age progression  
-- **InsightFace + KNN** → Identity retrieval  
+- **DeepFace + KNN** → Identity retrieval  
 - **EDA, augmentation & preprocessing** → Dataset quality improvement  
 
 This makes Sketch2Identity a complete end-to-end forensic recognition pipeline.
@@ -55,16 +55,15 @@ Traditional forensic sketch-based identification is:
 
 ## 🔗Links
 
-- **GitHub Repository**  
-  *(Add once uploaded)*  
-  https://github.com/your-username/Sketch2Identity
+- 👉 GitHub Repository:[ https://github.com/your-username/Sketch2Identity](https://github.com/dikshat25/Sketch2identity)
 
-- **📂 Drive Folder (Models, Outputs, Screenshots, Results)**  
-  📌 *Click below:*  
-  https://drive.google.com/drive/folders/YOUR-FOLDER-ID-HERE
+- 📂 Screenshots & Outputs: [https://drive.google.com/drive/folders/YOUR_FOLDER_ID?usp=sharing](https://drive.google.com/drive/folders/1MEfc1L6_6LlfHXxQJeeLAodbVB3re-DC?usp=drive_link)
 
-- **Dataset (CUHK Face Sketch Dataset)**  
-  https://www.ee.cuhk.edu.hk/~xgwang/CUFS.html
+- 📁 Dataset Used (CUHK Face Sketch Dataset): [https://www.ee.cuhk.edu.hk/~xgwang/CUFS.html](https://www.kaggle.com/datasets/arbazkhan971/cuhk-face-sketch-database-cufs)
+
+- 📁 Researcch Papers: [https://www.ee.cuhk.edu.hk/~xgwang/CUFS.html](https://drive.google.com/drive/folders/1-72hwCySLCa4f55HuEdwbIkTH-lq9GRt?usp=drive_link)
+
+
 
 ---
 
@@ -74,7 +73,7 @@ Traditional forensic sketch-based identification is:
 - PyTorch  
 - IsGAN  
 - StyleGAN / Synthetic Aging Pipeline  
-- InsightFace  
+- DeepFace 
 - KNN Classifier  
 
 ### **Python Libraries**
@@ -88,7 +87,8 @@ Traditional forensic sketch-based identification is:
 
 ### **Tools**
 - Google Colab  
-- Jupyter Notebook  
+- Jupyter Notebook
+- Kaggle 
 - Drive Model Loading  
 
 ---
