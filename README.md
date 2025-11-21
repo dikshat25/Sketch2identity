@@ -55,14 +55,17 @@ Traditional forensic sketch-based identification is:
 
 ## 🔗Links
 
-- 👉 GitHub Repository:[ https://github.com/your-username/Sketch2Identity](https://github.com/dikshat25/Sketch2identity)
+- 👉 **GitHub Repository:**  
+  [Sketch2Identity](https://github.com/dikshat25/Sketch2identity)
 
-- 📂 Screenshots & Outputs: [https://drive.google.com/drive/folders/YOUR_FOLDER_ID?usp=sharing](https://drive.google.com/drive/folders/1MEfc1L6_6LlfHXxQJeeLAodbVB3re-DC?usp=drive_link)
+- 📂 **Screenshots & Outputs:**  
+  [View Results Folder](https://drive.google.com/drive/folders/1MEfc1L6_6LlfHXxQJeeLAodbVB3re-DC?usp=drive_link)
 
-- 📁 Dataset Used (CUHK Face Sketch Dataset): [https://www.ee.cuhk.edu.hk/~xgwang/CUFS.html](https://www.kaggle.com/datasets/arbazkhan971/cuhk-face-sketch-database-cufs)
+- 📁 **Dataset Used (CUHK Face Sketch Dataset – Kaggle Version):**  
+  [CUHK Face Sketch Dataset](https://www.kaggle.com/datasets/arbazkhan971/cuhk-face-sketch-database-cufs)
 
-- 📁 Researcch Papers: [https://www.ee.cuhk.edu.hk/~xgwang/CUFS.html](https://drive.google.com/drive/folders/1-72hwCySLCa4f55HuEdwbIkTH-lq9GRt?usp=drive_link)
-
+- 📄 **Research Papers (GAN, Age Progression, Retrieval – All PDFs):**  
+  [Research Papers Folder](https://drive.google.com/drive/folders/1-72hwCySLCa4f55HuEdwbIkTH-lq9GRt?usp=drive_link)
 
 
 ---
@@ -144,3 +147,10 @@ Clone the repository:
 ```bash
 git clone https://github.com/your-username/Sketch2Identity
 cd Sketch2Identity
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
